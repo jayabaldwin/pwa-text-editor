@@ -10,9 +10,10 @@ The aim of this project was to build a text editor that runs in the browser and 
 For this single page progressive web application we were provided with starter code and had to then implement methods for data control via an IndexedDB database. The `idb` package (essentialy a lightweight wrapper around the IndexedDB API) was utilised to access a number of methods for storing and retrieving data.
 <br>
 
-### Brief functionality walk through:
+### Web Application:
 
-![Functionality Walk Through](./assets)
+Link to deployed site [here](https://jate-text-editor1234-7977bf753050.herokuapp.com/)
+![Website Screenshot](./assets/jate-screenshot.png)
 
 ## Table of Contents
 
